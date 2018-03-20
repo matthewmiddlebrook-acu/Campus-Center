@@ -1,0 +1,6 @@
+<sbspresets count="1" formatversion="1.1">
+ <sbspreset label="Pavers" pkgurl="pkg://Bitmap2Material_3">
+  <presetinput identifier="main_input" uid="2260298739" filepath="pavers3.png" type="5"/>
+  <export timeunit="frame" dir="C:/Users/matth/Documents/GitHub/Campus-Center/textures/pavers" timestart="0" fps="0" metaopt="0" pattern="%G_%O" disabled="2216720331,2260541767,2260542786,2260542834,2260543212,2270841610,2309595826,2309595828" timeend="0" format="dds" quality="100"/>
+ </sbspreset>
+</sbspresets>
